@@ -1,0 +1,2 @@
+Website:https://clipdrop.co/stable-diffusion
+Prompt: ""A minimalist and elegant logo for a gallery of art. The logo should incorporate a futuristic painting with a dark background"

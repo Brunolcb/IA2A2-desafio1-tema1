@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "QuanticoRegular";
+  src: url("C:/Users/bruno/OneDrive/Área de Trabalho/I2A2/Desafio1/quantico-regular.woff2") format("woff2"),
+       url("C:/Users/bruno/OneDrive/Área de Trabalho/I2A2/Desafio1/quantico-regular.woff") format("woff");
+}
+
+body {
+  background-color: #231f20;
+  font-family: "QuanticoRegular", sans-serif;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.container, .product-list, .product-item {
+  background-color: #231f20;
+}
+
+.container {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.product-item {
+  text-align: center;
+  max-width: 200px;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+  max-width: 200px;
+  height: auto;
+}
+
+h1 {
+  font-family: "QuanticoRegular", sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+  font-style: italic;
+  margin-bottom: 10px;
+}

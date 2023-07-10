@@ -1,0 +1,19 @@
+1- A cubist painting representing the universe. Artist: https://huggingface.co/spaces/Daniton/MidJourney
+
+2- A surrealistic painting representing galaxies. Artist: https://hotpot.ai/art-generator?s=art-maker-gallery
+
+3- A realistic painting representing the moon. Artist: https://huggingface.co/spaces/Daniton/MidJourney
+
+4- An impressionist painting representing a rocket. Artist: https://hotpot.ai/art-generator?s=art-maker-gallery
+
+5- A rococo painting representing an alien. Artist: https://hotpot.ai/art-generator?s=art-maker-gallery
+
+6- A fauvist painting representing a star. Artist: https://hotpot.ai/art-generator?s=art-maker-gallery
+
+7- An expressionist painting representing the sun. Artist: https://hotpot.ai/art-generator?s=art-maker-gallery
+
+8- A Leonardo da Vinci's painting representing Via Lactea. https://huggingface.co/spaces/Daniton/MidJourney
+
+9- An ancient Chinese painting representing a black-hole. Artist: https://hotpot.ai/art-generator?s=art-maker-gallery
+
+10- A Mayan painting representing a wormhole. Artist: https://hotpot.ai/art-generator?s=art-maker-gallery
